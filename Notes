@@ -1,0 +1,4 @@
+Singleton problems:
+1. Reflection issues, we can use reflection to create singleton instance.
+2. With Serialization , we also can create a singleton instance.
+
